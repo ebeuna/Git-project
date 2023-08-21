@@ -19,3 +19,5 @@
 ![Screenshot (9)](https://github.com/ebeuna/Git-project/assets/140742446/8f54a9d7-644b-4725-b91e-8db62d6d5ac3)
 ## Pushing your local git repositories to a remote github repositories
 ![Screenshot (10)](https://github.com/ebeuna/Git-project/assets/140742446/b5ae17fe-ec82-4d6b-98c6-bd4c048a2f3a)
+## Cloning remote git repositories
+![Screenshot (12)](https://github.com/ebeuna/Git-project/assets/140742446/2eb8edcf-15cd-42c0-9bcd-3c9bd88643ec)
